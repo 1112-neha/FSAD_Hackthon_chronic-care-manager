@@ -22,6 +22,12 @@
 
 ---
 
+## 📸 Screenshots
+
+*Add your project screenshots here*
+
+---
+
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the repository
@@ -44,43 +50,26 @@ npm install
 
 ### 4️⃣ Run the project
 
-```bash
+bash
 npm run dev
-```
 
----
+
+
 
 ## 🎯 Usage
 
 * Open browser and go to: `http://localhost:5173`
 * Start managing patient records and healthcare data
 
----
+
 
 ## 📂 Project Structure
 
-```
+
 ├── src
 ├── components
 ├── assets
 ├── package.json
 └── README.md
-```
 
----
 
-## 🤝 Contributors
-
-* 👩‍💻 Neha Sri
-
----
-
-## 📜 License
-
-This project is for educational purposes.
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
