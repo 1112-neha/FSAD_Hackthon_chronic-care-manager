@@ -1,4 +1,4 @@
-<img width="935" height="629" alt="image" src="https://github.com/user-attachments/assets/0bf6933d-a795-41f0-bcc6-426676df802f" /># 🏥 Chronic Care Manager
+# 🏥 Chronic Care Manager
 
 🚀 A smart healthcare management system designed to monitor, manage, and improve chronic patient care efficiently.
 
