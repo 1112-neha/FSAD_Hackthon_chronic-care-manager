@@ -65,15 +65,6 @@ npm run dev
 
 ---
 
-## 📂 Project Structure
-
-```
-├── src
-├── components
-├── assets
-├── package.json
-└── README.md
-```
 
 ---
 
