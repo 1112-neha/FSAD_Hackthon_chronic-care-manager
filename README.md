@@ -14,13 +14,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-* Frontend: HTML, CSS, JavaScript / React
-* Backend: Node.js / Python
-* Database: MongoDB / MySQL
-
----
 
 ## 📸 Screenshots
 
