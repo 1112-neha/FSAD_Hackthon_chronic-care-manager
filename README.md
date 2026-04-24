@@ -1,4 +1,4 @@
-# 🏥 Chronic Care Manager
+<img width="935" height="629" alt="image" src="https://github.com/user-attachments/assets/0bf6933d-a795-41f0-bcc6-426676df802f" /># 🏥 Chronic Care Manager
 
 🚀 A smart healthcare management system designed to monitor, manage, and improve chronic patient care efficiently.
 
@@ -24,7 +24,9 @@
 
 ## 📸 Screenshots
 
-*Add your project screenshots here*
+<img width="935" height="629" alt="image" src="https://github.com/user-attachments/assets/ed6fe289-baff-449a-b6aa-6ada93bcbbae" />
+
+
 
 ---
 
@@ -50,26 +52,32 @@ npm install
 
 ### 4️⃣ Run the project
 
-bash
+```bash
 npm run dev
+```
 
-
-
+---
 
 ## 🎯 Usage
 
 * Open browser and go to: `http://localhost:5173`
 * Start managing patient records and healthcare data
 
-
+---
 
 ## 📂 Project Structure
 
-
+```
 ├── src
 ├── components
 ├── assets
 ├── package.json
 └── README.md
+```
 
+---
+
+## 🤝 Contributors
+
+* 👩‍💻 Neha Sri
 
