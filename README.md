@@ -56,12 +56,5 @@ npm run dev
 * Open browser and go to: `http://localhost:5173`
 * Start managing patient records and healthcare data
 
----
 
-
----
-
-## 🤝 Contributors
-
-* 👩‍💻 Neha Sri
 
